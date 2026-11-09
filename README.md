@@ -22,6 +22,6 @@
 <p>To strengthen my web development skills through practical implementation, build meaningful projects, and continuously improve my coding abilities.</p>
 <h2>Learning in Public</h2>
 <p>This repository represents my learning journey. I'll keep updating it with new practicals, assignments, projects, and improvements.</p>
-<h3>Learning step by step, building project by project! 🚀</h3>
+<h3>Learning step by step, building project by project!! 🚀</h3>
 <hr>
 <h4>Maintained by Hiba Sultana.</h4>
